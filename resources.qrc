@@ -1,0 +1,11 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/icons">
+        <file>icons/connect.svg</file>
+        <file>icons/start.svg</file>
+        <file>icons/single.svg</file>
+        <file>icons/peak.svg</file>
+        <file>icons/next_peak.svg</file>
+        <file>icons/delta.svg</file>
+    </qresource>
+</RCC> 
